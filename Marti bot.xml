@@ -1,6 +1,6 @@
 ﻿<xml xmlns="http://www.w3.org/1999/xhtml" collection="false">
   <block type="loader" id="G8*bH0yYOiK7:XhZ-!pX" x="0" y="0">
-    <field name="URL">https://goo.gl/UEagpK</field>
+    <field name="URL">https://raw.githubusercontent.com/joneBot/Binary-robot/master/Raw.xml</field>
   </block>
   <block type="trade" id=")inu*9KBx=?O=ZEkmjl_" x="0" y="53">
     <field name="MARKET_LIST">volidx</field>
